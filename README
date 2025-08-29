@@ -1,2 +1,1 @@
-This is a first file.
-~~~~
+print("This is a first file.~~~~")
