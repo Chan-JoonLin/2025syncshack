@@ -1,1 +1,2 @@
-print("This is a first file.~~~~")
+#This will be updated as the hackathon begins
+print("This is the first file I have made.~~~~")
